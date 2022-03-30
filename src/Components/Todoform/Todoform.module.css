@@ -1,0 +1,26 @@
+label{
+    font-size: 1em;
+}
+.center{
+    margin: 20px 0;
+    
+    
+}
+input{
+    
+    padding: 5px 10px;
+    margin: 10px 0;
+    font-size: 1rem;
+    border: none;
+    border-bottom: 1px ridge black;
+}
+textarea:focus, input:focus{
+    outline: none;
+}
+
+
+button{
+    padding: 1px 10px;
+    font-size: 1.1rem;
+
+}
